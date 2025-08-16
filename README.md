@@ -52,9 +52,9 @@ AndroidNotificationSample/
 
 ## 📸 Screenshots
 
-| Basic Notification | Custom Layout | Grouped Notifications |
-|--------------------|---------------|-----------------------|
-| ![Basic](docs/screenshots/basic.png) | ![Custom](docs/screenshots/custom.png) | ![Grouped](docs/screenshots/grouped.png) |
+| Sample Notification           |
+|-------------------------------|
+| ![Sample](docs/animation.gif) |
 
 ---
 
